@@ -27,14 +27,18 @@ about_content: | # this will include new lines to allow paragraphs
   My research focus is on use of Machine Learning, Computer Vision for medical image analysis and diagnosis.
   I work with <mark>Pytorch</mark>.
 
-# Projects Section
-# projects_title: Projects
+# Education Section
+# education_title: Education
 
 # Experience Section
 # experience_title: Experience
 
-# Education Section
-# educaton_title: Education
+# Publications Section
+# publication_title: Publications
+
+# Projects Section
+# projects_title: Projects
+
 
 # More Section
 # more_title: A Little More About Me
